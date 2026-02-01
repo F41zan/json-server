@@ -275,14 +275,9 @@
       "price": "2300",
       "quantity": "2",
       "title": "PEDRI | UCL Men's home jersey 25/26 - Player's Edition",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Kids goalkeeper kit inspired by FC Barcelona’s UCL 25/26 season, designed for comfort and match performance.",
       "id": "23e",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/kits-img/kits4Sub1.jpg",
         "/img/kits-img/kits4sub4.jpg",
@@ -298,14 +293,9 @@
       "price": "2000",
       "quantity": 5,
       "title": "UCL Men's home jersey 25/26 FC Barcelona",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Men’s FC Barcelona training kit for the 25/26 season with breathable fabric for training and casual wear.",
       "id": "p01",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/kits1.jpg",
         "/img/kits-img/kitsSub1.jpg",
@@ -321,14 +311,9 @@
       "price": "6600",
       "quantity": 4,
       "title": "FC Barcelona home short 25/26",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Official FC Barcelona away kit shorts offering lightweight comfort and a professional athletic fit.",
       "id": "p02",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/kits-img/kits2sub1.jpg",
         "/img/kits-img/kits2sub2.jpg",
@@ -344,14 +329,9 @@
       "price": "2700",
       "quantity": 6,
       "title": "FC Barcelona home short 25/26 - Women",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Women’s FC Barcelona third kit shorts designed for flexibility, comfort, and everyday sports use.",
       "id": "p03",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/kits-img/kits3sub1.jpg",
         "/img/kits-img/kits3sub2.jpg",
@@ -367,15 +347,10 @@
       "price": "10500",
       "quantity": 2,
       "title": "UCL Junior home jersey 25/26 FC Barcelona",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Junior FC Barcelona goalkeeper jersey from the 25/26 UCL season, ideal for young players.",
       "collection": "STADIUM COLLECTION",
       "id": "p05",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/kits-img/kits6sub1.jpg",
         "/img/kits-img/kits6sub2.jpg",
@@ -391,14 +366,9 @@
       "price": "8500",
       "quantity": 5,
       "title": "Barcelona Training Jersey 25/26",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Kids Barcelona home training jersey designed for durability, comfort, and daily wear.",
       "id": "p06",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/kits-img/kits7sub1.jpg",
         "/img/kits-img/kits7sub2.jpg",
@@ -412,14 +382,9 @@
       "price": "9150",
       "quantity": 0,
       "title": "Younger kids home kit 25/26 FC Barcelona",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Younger kids FC Barcelona home kit made for easy movement and all-day comfort.",
       "id": "p07",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/kits-img/kits8sub1.png",
         "/img/kits-img/kitsSub1.jpg",
@@ -436,14 +401,9 @@
       "quantity": 5,
       "title": "Men’s Shirt Lamine Yamal 2025 FC Barcelona – Kopa Trophy Edition",
       "collection": "Match Collection",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Men’s special edition FC Barcelona fan shirt celebrating Lamine Yamal’s 2025 Kopa Trophy achievement.",
       "id": "p08",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/kits-img/kits9sub1.jpg",
         "/img/kits-img/kits4Sub1.jpg",
@@ -458,14 +418,9 @@
       "quantity": 10,
       "collection": "STADIUM COLLECTION",
       "title": "UCL Women's home jersey 25/26 FC Barcelona - Player's Edition",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Women’s UCL 25/26 home jersey in player’s edition, designed for an authentic match-day experience.",
       "id": "p09",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/kits-img/kits10sub1.jpg",
         "/img/kits-img/kits10sub2.jpg",
@@ -481,15 +436,10 @@
       "price": "2100",
       "quantity": 5,
       "title": "Modernist FC Barcelona Polo - Oversize",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Oversized FC Barcelona polo featuring a modern design for casual wear and everyday comfort.",
       "collection": "Retro Collection",
       "id": "p10",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/kits-img/kits11sub1-removebg-preview.png",
         "/img/kits-img/kits11sub2.jpg",
@@ -505,15 +455,10 @@
       "price": "2650",
       "quantity": 15,
       "title": "UCL Women's fourth jersey 25/26 FC Barcelona",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Women’s FC Barcelona fourth jersey for the 25/26 UCL season with a bold and modern design.",
       "collection": "PLAYER COLLECTION",
       "id": "p11",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/kits-img/kits12sub2.jpg",
         "/img/kits-img/kits12sub3.jpg",
@@ -523,20 +468,34 @@
       ]
     },
     {
+      "category": "kits",
+      "type": "fan kit",
+      "gender": "men",
+      "price": "10150",
+      "quantity": 15,
+      "title": "FC Barcelona home short 25/26 - Player's Edition",
+      "description": "Men’s FC Barcelona home shorts in player’s edition, built for performance and premium comfort.",
+      "collection": "PLAYER COLLECTION",
+      "id": "q11",
+      "sizes": ["S", "M", "L", "XL"],
+      "images": [
+        "/img/kits-img/kits14sub2.jpg",
+        "/img/kits-img/kits14sub2.jpg",
+        "/img/kits-img/kits14sub3.jpg",
+        "/img/kits-img/kits14sub4.jpg",
+        "/img/kits-img/kits14sub5.jpg"
+      ]
+    },
+    {
       "category": "Apparel",
       "type": "Jackets",
       "gender": "women",
       "price": "4000",
       "quantity": 5,
       "title": "UCL Women's home jersey 25/26 FC Barcelona",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Women’s FC Barcelona UCL 25/26 home jacket designed for comfort, warmth, and everyday wear.",
       "id": "a2",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/Apparel-Img/apparel1sub1.jpg",
         "/img/Apparel-Img/apparel1sub2.jpg",
@@ -552,14 +511,9 @@
       "price": "6600",
       "quantity": 4,
       "title": "FC Barcelona home short 25/26",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Men’s FC Barcelona 25/26 home apparel piece crafted for daily comfort and club pride.",
       "id": "a3",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/Apparel-Img/apparel2sub1-removebg-preview.png",
         "/img/Apparel-Img/apparel2sub2.jpg",
@@ -575,14 +529,9 @@
       "price": "2700",
       "quantity": 6,
       "title": "Parka Jacket Nike FC Barcelona",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Men’s Nike FC Barcelona parka jacket offering warmth, durability, and a modern athletic look.",
       "id": "a4",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/Apparel-Img/apparel3sub1.png",
         "/img/Apparel-Img/apparel3sub2.jpg"
@@ -595,14 +544,9 @@
       "price": "10500",
       "quantity": 3,
       "title": "Windrunner Barça Nike - Women",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Women’s Nike Barça Windrunner jacket built for lightweight protection and sporty everyday style.",
       "id": "a5",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/Apparel-Img/apparel4sub1.jpg",
         "/img/Apparel-Img/apparel4sub2.jpg",
@@ -618,15 +562,10 @@
       "price": "11800",
       "quantity": 2,
       "title": "Hoodie Zip Black Organic Goals",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Men’s zip-up hoodie made from organic materials, offering comfort with a clean FC Barcelona look.",
       "collection": "STADIUM COLLECTION",
       "id": "a6",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/Apparel-Img/apparel5sub1.png",
         "/img/Apparel-Img/apparel5sub2.jpg",
@@ -642,15 +581,10 @@
       "price": "7900",
       "quantity": 5,
       "title": "Hoodie Zip Navy Barça Organic Goals - Junior",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Junior zip hoodie in navy blue, designed with organic fabric for comfort and durability.",
       "collection": "Organic Edit Collection",
       "id": "a7",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/Apparel-Img/apparel6sub1.png",
         "/img/Apparel-Img/apparel6sub2.jpg",
@@ -666,15 +600,10 @@
       "price": "11800",
       "quantity": 3,
       "title": "Hoodie Grey Barça Organic Goals - Women",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Women’s grey hoodie crafted from organic materials for a soft feel and modern Barça style.",
       "collection": "Organic Edit Collection",
       "id": "a8",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/Apparel-Img/apparel7sub1.png",
         "/img/Apparel-Img/apparel7sub2.jpg",
@@ -691,14 +620,9 @@
       "quantity": 5,
       "title": "Women’s Shirt Lamine Yamal 2025 FC Barcelona – Kopa Trophy Edition",
       "collection": "Match Collection",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Women’s FC Barcelona shirt celebrating Lamine Yamal’s 2025 Kopa Trophy success.",
       "id": "a9",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/Apparel-Img/apparel8sub1.jpg",
         "/img/Apparel-Img/apparel8sub2.jpg",
@@ -712,15 +636,10 @@
       "price": "9600",
       "quantity": 10,
       "collection": "STADIUM COLLECTION",
-      "title": "Sweatshirt blue Barça Cruyff ",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "title": "Sweatshirt blue Barça Cruyff",
+      "description": "Men’s blue Barça Cruyff sweatshirt inspired by club heritage, offering comfort and a timeless sporty look.",
       "id": "a10",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/Apparel-Img/apparel9sub5-removebg-preview.png",
         "/img/Apparel-Img/apparel9sub3.jpg",
@@ -736,15 +655,10 @@
       "price": "2100",
       "quantity": 5,
       "title": "Modernist FC Barcelona Polo - Oversize",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Men’s oversized FC Barcelona polo combining retro inspiration with modern casual style.",
       "collection": "Retro Collection",
       "id": "a11",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/Apparel-Img/apparel11sub1.jpg",
         "/img/Apparel-Img/apparel11sub2.jpg",
@@ -759,21 +673,111 @@
       "price": "2650",
       "quantity": 15,
       "title": "UCL Women's fourth jersey 25/26 FC Barcelona",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Women’s FC Barcelona fourth jersey for the 25/26 UCL season, designed with a bold and contemporary style.",
       "collection": "PLAYER COLLECTION",
       "id": "p12",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "sizes": ["S", "M", "L", "XL"],
       "images": [
         "/img/kits-img/kits12sub2.jpg",
         "/img/kits-img/kits12sub3.jpg",
         "/img/kits-img/kits12sub1.jpg",
         "/img/kits-img/kits12sub4.jpg",
         "/img/kits-img/kits12sub5.jpg"
+      ]
+    },
+    {
+      "category": "Apparel",
+      "type": "T-Shirts",
+      "gender": "kids",
+      "price": "3800",
+      "quantity": 15,
+      "title": "Tee Junior Barça Nike grey",
+      "description": "Junior grey Barça Nike t-shirt designed for everyday comfort and active wear.",
+      "collection": "Retro Collection",
+      "id": "5111",
+      "sizes": ["S", "M", "L", "XL"],
+      "images": [
+        "/img/Apparel-Img/apparel12sub2.jpg",
+        "/img/Apparel-Img/apparel12sub1.jpg",
+        "/img/Apparel-Img/apparel12sub3.jpg",
+        "/img/Apparel-Img/apparel12sub4.jpg",
+        "/img/Apparel-Img/apparel12sub5.jpg"
+      ]
+    },
+    {
+      "category": "Apparel",
+      "type": "T-Shirts",
+      "gender": "kids",
+      "price": "3800",
+      "quantity": 15,
+      "title": "T-shirt Junior Navy Barça Organic Goals",
+      "description": "Junior navy t-shirt made with organic fabric, offering soft comfort and a clean Barça design.",
+      "collection": "Organic Edit Collection",
+      "id": "901",
+      "sizes": ["S", "M", "L", "XL"],
+      "images": [
+        "/img/Apparel-Img/apparel13sub1-removebg-preview.png",
+        "/img/Apparel-Img/apparel13sub2.jpg",
+        "/img/Apparel-Img/apparel13sub3.jpg",
+        "/img/Apparel-Img/apparel13sub4.jpg",
+        "/img/Apparel-Img/apparel13sub5.jpg"
+      ]
+    },
+    {
+      "category": "Apparel",
+      "type": "T-Shirts",
+      "gender": "men",
+      "price": "3800",
+      "quantity": 15,
+      "title": "T-shirt Black Barça Organic Goals",
+      "description": "Men’s black Barça t-shirt crafted from organic materials for all-day comfort and style.",
+      "collection": "Organic Edit Collection",
+      "id": "9",
+      "sizes": ["S", "M", "L", "XL"],
+      "images": [
+        "/img/Apparel-Img/apparel14sub1.jpg",
+        "/img/Apparel-Img/apparel14sub2.jpg",
+        "/img/Apparel-Img/apparel14sub3.jpg",
+        "/img/Apparel-Img/apparel14sub4.jpg",
+        "/img/Apparel-Img/apparel14sub5.jpg"
+      ]
+    },
+    {
+      "category": "Apparel",
+      "type": "Pants",
+      "gender": "men",
+      "price": "3800",
+      "quantity": 15,
+      "title": "Pants Black Barça Organic Goals",
+      "description": "Men’s black Barça pants made with organic fabric, ideal for comfort, training, or casual wear.",
+      "collection": "Organic Edit Collection",
+      "id": "227",
+      "sizes": ["S", "M", "L", "XL"],
+      "images": [
+        "/img/Apparel-Img/apparel15sub1.png",
+        "/img/Apparel-Img/apparel15sub2.jpg",
+        "/img/Apparel-Img/apparel15sub3.jpg",
+        "/img/Apparel-Img/apparel15sub4.jpg",
+        "/img/Apparel-Img/apparel15sub5.jpg"
+      ]
+    },
+    {
+      "category": "kits",
+      "type": "away kit",
+      "gender": "women",
+      "price": "3800",
+      "quantity": 15,
+      "title": "UCL Women's home jersey 25/26 FC Barcelona",
+      "description": "Women’s FC Barcelona UCL 25/26 jersey designed for fans who want comfort with authentic club style.",
+      "collection": "STADIUM COLLECTION",
+      "id": "7",
+      "sizes": ["S", "M", "L", "XL"],
+      "images": [
+        "/img/Apparel-Img/apparel16sub1.jpg",
+        "/img/Apparel-Img/apparel16sub2.jpg",
+        "/img/Apparel-Img/apparel16sub3.jpg",
+        "/img/Apparel-Img/apparel16sub4.jpg",
+        "/img/Apparel-Img/apparel16sub5.jpg"
       ]
     }
   ]
