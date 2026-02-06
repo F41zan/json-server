@@ -7,10 +7,10 @@
       "role": "admin",
       "phone": "09326363735",
       "createdAt": "1/1/2026",
-      "firstName": "admin khan",
+      "firstName": "admin ",
       "lastName": "admin",
       "status": "Active",
-      "fullName": "Faizan",
+      "fullName": "admin",
       "contact": "khan",
       "joinDate": "2026-01-15",
       "activity": "3"
@@ -25,16 +25,6 @@
       "firstName": "Naaz",
       "lastName": "khan",
       "status": "Active"
-    },
-    {
-      "id": "bbb2",
-      "firstName": "Zohaan",
-      "lastName": "Khan",
-      "email": "9819@gmail.com",
-      "phone": "4839204933",
-      "role": "user",
-      "status": "Suspended",
-      "createdAt": "1/18/2026"
     },
     {
       "id": "eb54",
@@ -88,182 +78,6 @@
       "createdAt": "2/1/2026",
       "firstName": "Kashif ",
       "lastName": "Khan",
-      "status": "Active"
-    },
-    {
-      "id": "1188",
-      "email": "kashif@12",
-      "password": "kashif@12",
-      "role": "user",
-      "phone": "9809117986",
-      "createdAt": "2/1/2026",
-      "firstName": "Kashif ",
-      "lastName": "Khan",
-      "status": "Active"
-    },
-    {
-      "id": "7174",
-      "email": "kashif@12",
-      "password": "kashif@12",
-      "role": "user",
-      "phone": "9809117986",
-      "createdAt": "2/1/2026",
-      "firstName": "Kashif ",
-      "lastName": "Khan",
-      "status": "Active"
-    },
-    {
-      "id": "4347",
-      "email": "kashif@12",
-      "password": "kashif@12",
-      "role": "user",
-      "phone": "9809117986",
-      "createdAt": "2/1/2026",
-      "firstName": "Kashif ",
-      "lastName": "Khan",
-      "status": "Active"
-    },
-    {
-      "id": "45c5",
-      "email": "khansufi981919@gmail.com",
-      "password": "faizan98",
-      "role": "user",
-      "phone": "9809117986",
-      "createdAt": "2/1/2026",
-      "firstName": "Sufiyan",
-      "lastName": "Khan",
-      "status": "Active"
-    },
-    {
-      "id": "bc16",
-      "email": "khansufi981919@gmail.com",
-      "password": "faizan98",
-      "role": "user",
-      "phone": "9809117986",
-      "createdAt": "2/1/2026",
-      "firstName": "Sufiyan",
-      "lastName": "Khan",
-      "status": "Active"
-    },
-    {
-      "id": "af0a",
-      "email": "khansufi981919@gmail.com",
-      "password": "faizan98",
-      "role": "user",
-      "phone": "9809117986",
-      "createdAt": "2/1/2026",
-      "firstName": "Sufiyan",
-      "lastName": "Khan",
-      "status": "Active"
-    },
-    {
-      "id": "7eaa",
-      "email": "khansufi981919@gmail.com",
-      "password": "faizan98",
-      "role": "user",
-      "phone": "9809117986",
-      "createdAt": "2/1/2026",
-      "firstName": "Sufiyan",
-      "lastName": "Khan",
-      "status": "Active"
-    },
-    {
-      "id": "7d45",
-      "email": "sufi@12",
-      "password": "sufi@12",
-      "role": "user",
-      "phone": "09326363735",
-      "createdAt": "2/1/2026",
-      "firstName": "sufi",
-      "lastName": "khan",
-      "status": "Active"
-    },
-    {
-      "id": "e0be",
-      "email": "sufi@12",
-      "password": "sufi@12",
-      "role": "user",
-      "phone": "09326363735",
-      "createdAt": "2/1/2026",
-      "firstName": "sufi",
-      "lastName": "khan",
-      "status": "Active"
-    },
-    {
-      "id": "6249",
-      "email": "sufi@12",
-      "password": "sufi@12",
-      "role": "user",
-      "phone": "09326363735",
-      "createdAt": "2/1/2026",
-      "firstName": "sufi",
-      "lastName": "khan",
-      "status": "Active"
-    },
-    {
-      "id": "bf04",
-      "email": "sufi@12",
-      "password": "sufi@12",
-      "role": "user",
-      "phone": "09326363735",
-      "createdAt": "2/1/2026",
-      "firstName": "sufi",
-      "lastName": "khan",
-      "status": "Active"
-    },
-    {
-      "id": "eb8a",
-      "email": "sufi@12",
-      "password": "sufi@12",
-      "role": "user",
-      "phone": "09326363735",
-      "createdAt": "2/1/2026",
-      "firstName": "sufi",
-      "lastName": "khan",
-      "status": "Active"
-    },
-    {
-      "id": "5f2f",
-      "email": "sufi@12",
-      "password": "sufi@12",
-      "role": "user",
-      "phone": "09326363735",
-      "createdAt": "2/1/2026",
-      "firstName": "sufi",
-      "lastName": "khan",
-      "status": "Active"
-    },
-    {
-      "id": "e556",
-      "email": "sufi@12",
-      "password": "sufi@12",
-      "role": "user",
-      "phone": "09326363735",
-      "createdAt": "2/1/2026",
-      "firstName": "sufi",
-      "lastName": "khan",
-      "status": "Active"
-    },
-    {
-      "id": "28ca",
-      "email": "sufi@12",
-      "password": "sufi@12",
-      "role": "user",
-      "phone": "09326363735",
-      "createdAt": "2/1/2026",
-      "firstName": "sufi",
-      "lastName": "khan",
-      "status": "Active"
-    },
-    {
-      "id": "c202",
-      "email": "test@12",
-      "password": "12",
-      "role": "user",
-      "phone": "09326363735",
-      "createdAt": "2/1/2026",
-      "firstName": "Naaz",
-      "lastName": "khan",
       "status": "Active"
     }
   ],
