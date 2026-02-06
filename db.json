@@ -469,7 +469,7 @@
     },
     {
       "category": "kits",
-      "type": "fan kit",
+      "type": "away kit",
       "gender": "men",
       "price": "10150",
       "quantity": 15,
@@ -479,11 +479,11 @@
       "id": "q11",
       "sizes": ["S", "M", "L", "XL"],
       "images": [
-        "/Barca-Shop/img/kits-img/kits14sub2.jpg",
-        "/Barca-Shop/img/kits-img/kits14sub2.jpg",
-        "/Barca-Shop/img/kits-img/kits14sub3.jpg",
-        "/Barca-Shop/img/kits-img/kits14sub4.jpg",
-        "/Barca-Shop/img/kits-img/kits14sub5.jpg"
+        "/Barca-Shop/img/kits-img/kits14Sub2.jpg",
+        "/Barca-Shop/img/kits-img/kits14Sub3.jpg",
+        "/Barca-Shop/img/kits-img/kits14Sub1.jpg",
+        "/Barca-Shop/img/kits-img/kits14Sub4.jpg",
+        "/Barca-Shop/img/kits-img/kits14Sub5.jpg"
       ]
     },
     {
